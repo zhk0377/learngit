@@ -3,3 +3,4 @@ insert a row
 revert row
 anew modified
 git tracked changes not file
+anew modified
