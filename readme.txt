@@ -4,3 +4,4 @@ revert row
 anew modified
 git tracked changes not file
 anew modified
+test checkout
